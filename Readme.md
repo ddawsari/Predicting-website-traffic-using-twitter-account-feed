@@ -12,7 +12,7 @@ possible dependent variable: [reach_per_million, page_views_per_million, rank]
 preferred variable: reach_per_million [the rank is global and all the available data have a low rank]
 
 #### Dictionary:-
-* Reach per million value - This metric means "out of a million global internet users, how many visited this site (during the specified time range)?"
+* Reach per million value - This metric means "out of a million global internet users, how many visited this site (during the specified time range)?" replaced by views
 * Page views per million value - This metric means "out of a million pageviews made by the Alexa traffic panel (during the specified time range), how many were on this site?" Note that the pageviews are not unique.
 
 
